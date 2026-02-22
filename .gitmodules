@@ -1,0 +1,3 @@
+[submodule "STM32-DashBoard"]
+	path = STM32-DashBoard
+	url = https://github.com/aditya-146/STM32-DashBoard.git
